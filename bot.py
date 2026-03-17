@@ -7,9 +7,9 @@ ADMIN_ID = 5912712110
 
 bot = telebot.TeleBot(TOKEN)
 
-premium_channel = "https://t.me/+DL_XoW8jyagwYTZl"
-demo_channel = "https://t.me/+DL_XoW8jyagwYTZl"
-how_channel = "https://t.me/+DL_XoW8jyagwYTZl"
+premium_channel = "https://t.me/+aX_BhutfN11kNWQ1"
+demo_channel = "https://t.me/+Pjf9kjog2Y81Njg1"
+how_channel = "https://t.me/+8OLeFCKjs7djZDY9"
 
 waiting_screenshot = {}
 waiting_qr = False
